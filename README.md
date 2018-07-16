@@ -1,0 +1,2 @@
+# softwaredavid.github.io
+blog
